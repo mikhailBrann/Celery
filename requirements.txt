@@ -1,0 +1,9 @@
+celery
+redis
+flask
+requests
+gunicorn
+pydantic
+
+psycopg2-binary
+SQLAlchemy
